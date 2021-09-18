@@ -64,7 +64,7 @@ If you find this repository useful for your research please use the following bi
       
 # Directory Tree
 
-**You can download FULL dataset in one click:  ![DOWNLOAD DATASET](https://storage-liav.ipsiras.ru/index.php/s/smK9yMfEdwdPFeQ)**
+**You can download FULL dataset in one click:  ![DOWNLOAD DATASET]**(https://storage-liav.ipsiras.ru/index.php/s/smK9yMfEdwdPFeQ)
 <br/>
 
 ```
