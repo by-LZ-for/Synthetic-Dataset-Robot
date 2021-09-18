@@ -28,7 +28,8 @@ If you find this repository useful for your research please use the following bi
 
    0. [Trajectory File](#Trajectory-file)
    1. [Directory Tree](#Directory-Tree)
-   2. [Flat Surface](#Flat-Surface)
+   2. [Relief](#Relief)
+   3. [Flat Surface](#Flat-Surface)
       * [Type a wood](#Type-a)
       * [Type b gravel](#Type-b)
       * [Type c grass](#Type-c)
@@ -37,9 +38,7 @@ If you find this repository useful for your research please use the following bi
       * [Type f street](#Type-f)
       * [Type g concrete](#Type-g)
       * [Type h metal](#Type-h)
-      
-   3. [Relief](#Relief)
-      
+  
    4. [Motion Blur](#Motion-Blur)
       * [Type b gravel](#MB-Type-b)
       * [Type f street](#MB-Type-f)
@@ -121,6 +120,25 @@ If you find this repository useful for your research please use the following bi
 ```
 [:arrow_up:Dataset structure](#Dataset-structure)
 <br/>
+
+
+# Relief
+**..or you can download only specific data**
+*Motion Blur OFF*
+<br/>
+TRAJECTORY TYPE: **FIGURE EIGHT**
+<br/>
+<img src="/img_table/relief_gif.gif" width="250">
+<br/>
+| Surface Type | b - *gravel / stones* | d - *sand* | f - *street  /  bricks* |
+|:---------:|:---------:|:---------:|:---------:|
+| Img |![](/img_table/relief_b.png)<br/> [2_km/h](https://storage-liav.ipsiras.ru/index.php/s/APKMTkqnrPygaRF) | ![](/img_table/relief_d.png)<br/> [2_km/h](https://storage-liav.ipsiras.ru/index.php/s/y9BAbQqt7JHag6B) | ![](/img_table/relief_f.png)<br/> [2_km/h](https://storage-liav.ipsiras.ru/index.php/s/KJ74cQKgfGbn3CA) |
+
+[:arrow_up:Dataset structure](#Dataset-structure)
+<br/>
+<br/>
+___
+
 
 # Flat Surface
 **..or you can download only specific data**
@@ -240,24 +258,6 @@ If you find this repository useful for your research please use the following bi
 |:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
 | ![](/img_table/h_01.png) 01_material | :x: | ![](/img_table/circle_speeds.png)<br/> :large_blue_circle: [2_km/h](https://storage-liav.ipsiras.ru/index.php/s/Esy3iYsPQ7tExJt)<br/> :red_circle: [8_km/h](https://storage-liav.ipsiras.ru/index.php/s/SFezLfJCcQC4A68)<br/> :green_circle: [15_km/h](https://storage-liav.ipsiras.ru/index.php/s/WGL8B7ZBDo4wdrd) | ![](/img_table/req_speeds.png)<br/> :large_blue_circle: [2_km/h](https://storage-liav.ipsiras.ru/index.php/s/dr7mJRP4cDiTeSs)<br/> :red_circle: [8_km/h](https://storage-liav.ipsiras.ru/index.php/s/ZnZKDRW52sfiA3z)<br/> :green_circle: [15_km/h](https://storage-liav.ipsiras.ru/index.php/s/4oNpSx5RLeHXwdy) | ![](/img_table/fig_speeds.png)<br/> :large_blue_circle: [2_km/h](https://storage-liav.ipsiras.ru/index.php/s/b4RHa9w4eFJR4oS)<br/> :red_circle: [8_km/h](https://storage-liav.ipsiras.ru/index.php/s/gnbdZZdS5EjdRky)<br/> :green_circle: [15_km/h](https://storage-liav.ipsiras.ru/index.php/s/Mkj3mY6k8m228if) | ![](/img_table/nonIntersect_speeds.png)<br/> :large_blue_circle: [2_km/h](https://storage-liav.ipsiras.ru/index.php/s/KFKL9xgMnZtr8S6)<br/> :red_circle: [8_km/h](https://storage-liav.ipsiras.ru/index.php/s/qiMKNE53z47TJR5)<br/> :green_circle: [15_km/h](https://storage-liav.ipsiras.ru/index.php/s/AQdHxHo5ymkfDcT) | :x: |
 | ![](/img_table/h_02.png) 02_material | :x: | :x: | :x: | [2_km/h](https://storage-liav.ipsiras.ru/index.php/s/rWKXabmEWSnWgKR) | :x: | :x: |
-
-[:arrow_up:Dataset structure](#Dataset-structure)
-<br/>
-<br/>
-___
-
-
-# Relief
-
-*Motion Blur OFF*
-<br/>
-TRAJECTORY TYPE: **FIGURE EIGHT**
-<br/>
-<img src="/img_table/relief_gif.gif" width="250">
-<br/>
-| Surface Type | b - *gravel / stones* | d - *sand* | f - *street  /  bricks* |
-|:---------:|:---------:|:---------:|:---------:|
-| Img |![](/img_table/relief_b.png)<br/> [2_km/h](https://storage-liav.ipsiras.ru/index.php/s/APKMTkqnrPygaRF) | ![](/img_table/relief_d.png)<br/> [2_km/h](https://storage-liav.ipsiras.ru/index.php/s/y9BAbQqt7JHag6B) | ![](/img_table/relief_f.png)<br/> [2_km/h](https://storage-liav.ipsiras.ru/index.php/s/KJ74cQKgfGbn3CA) |
 
 [:arrow_up:Dataset structure](#Dataset-structure)
 <br/>
