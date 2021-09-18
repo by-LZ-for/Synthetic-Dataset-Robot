@@ -125,9 +125,11 @@ If you find this repository useful for your research please use the following bi
 # Relief Surface
 **..or you can download only specific data**
 <br/>
+<br/>
 *Motion Blur OFF*
 <br/>
 TRAJECTORY TYPE: **FIGURE EIGHT**
+<br/>
 <br/>
 <img src="/img_table/relief_gif.gif" width="250">
 <br/>
