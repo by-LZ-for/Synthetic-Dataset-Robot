@@ -28,7 +28,7 @@ If you find this repository useful for your research please use the following bi
 
    0. [Trajectory File](#Trajectory-file)
    1. [Directory Tree](#Directory-Tree)
-   2. [Relief](#Relief)
+   2. [Relief Surface](#Relief-Surface)
    3. [Flat Surface](#Flat-Surface)
       * [Type a wood](#Type-a)
       * [Type b gravel](#Type-b)
@@ -122,8 +122,9 @@ If you find this repository useful for your research please use the following bi
 <br/>
 
 
-# Relief
+# Relief Surface
 **..or you can download only specific data**
+<br/>
 *Motion Blur OFF*
 <br/>
 TRAJECTORY TYPE: **FIGURE EIGHT**
