@@ -26,7 +26,7 @@ If you find this repository useful for your research please use the following bi
 # Dataset structure
 <!--ts-->
 
-   0. [Trajectory file decryption](#Trajectory-file-decryption)
+   0. [Trajectory file](#Trajectory-file)
    1. [Directory Tree](#Directory-Tree)
    2. [Flat Surface](#Flat-Surface)
       * [Type a wood](#Type-a)
@@ -49,8 +49,8 @@ If you find this repository useful for your research please use the following bi
 <!--te-->
 <br/>
 
-# Trajectory file decryption
-*.csv file*
+# Trajectory file
+*.csv file decryption*
 <br/>
 | time, sec | x axis, cm | y axis, cm | z axis, cm | roll, ° | pitch, ° | yaw, ° | distance to surface<br/>(*experimental for relief*), cm | speed, km/h |
 |:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
