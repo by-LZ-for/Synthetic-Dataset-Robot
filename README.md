@@ -26,7 +26,7 @@ If you find this repository useful for your research please use the following bi
 # Dataset structure
 <!--ts-->
 
-   0. [Decryption](#Decryption)
+   0. [Illustration and Decryption](#Illustration-and-Decryption)
    1. [Directory Tree](#Directory-Tree)
    2. [Relief Surface](#Relief-Surface)
    3. [Flat Surface](#Flat-Surface)
@@ -48,9 +48,8 @@ If you find this repository useful for your research please use the following bi
 <!--te-->
 <br/>
 
-# Decryption
+# Illustration and Decryption
 
-<br/>
 **How it looks:**
 <br/>
 
@@ -59,7 +58,7 @@ CIRCLE TRAJECTORY example |  NON-INTERSECTING TRAJECTORY example
 <img src="/img_table/example_circle_gif.gif" width="400">  |  <img src="/img_table/example_noninter_gif.gif" width="400">
 
 <br/>
-<br/>
+
 **Output image sequence examples:**
 <br/>
 
@@ -68,7 +67,7 @@ Type f - street |  Type a - wood |  Type b - gravel |  Type d - sand
 <img src="/img_table/example_f_1.gif" width="300"> | <img src="/img_table/example_a_4.gif" width="300"> | <img src="/img_table/example_b_3.gif" width="300"> | <img src="/img_table/example_d_3.gif" width="300">
 
 <br/>
-<br/>
+
 **Output .csv file decryption:**
 <br/>
 
