@@ -54,7 +54,7 @@ If you find this repository useful for your research please use the following bi
 <img src="/img_table/example_circle_gif.gif" width="250"> <img src="/img_table/example_noninter_gif.gif" width="250">
 <br/>
 <br/>
-![alt-text-1](/img_table/example_circle_gif.gif "title-1") ![alt-text-2](/img_table/example_noninter_gif.gif "title-2")
+<img src="/img_table/example_circle_gif.gif" width="250"/> <img src="/img_table/example_noninter_gif.gif" width="250"/> 
 <br/>
 
 *.csv file decryption*
