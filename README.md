@@ -61,7 +61,7 @@ circle             |  non-intersecting
 
 circle             |  non-intersecting
 :-------------------------:|:-------------------------:
-![](/img_table/example_circle_gif.gif)  |  ![](/img_table/example_circle_gif.gif)
+![](/img_table/example_circle_gif.gif)  |  ![](/img_table/example_noninter_gif.gif)
 
 <br/>
 
