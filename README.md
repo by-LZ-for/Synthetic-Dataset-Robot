@@ -87,7 +87,7 @@ Type f - street |  Type a - wood |  Type b - gravel |  Type d - sand
       
 # Directory Tree
 
-**You can download FULL dataset in one click:  [DOWNLOAD DATASET](https://storage-liav.ipsiras.ru/index.php/s/smK9yMfEdwdPFeQ)**
+**You can download FULL dataset (110 GB) in one click:  [DOWNLOAD DATASET](https://storage-liav.ipsiras.ru/index.php/s/smK9yMfEdwdPFeQ)**
 <br/>
 
 ```
