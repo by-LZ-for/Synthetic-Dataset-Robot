@@ -27,9 +27,10 @@ If you find this repository useful for your research please use the following bi
 <!--ts-->
 
    0. [Illustration and Decryption](#Illustration-and-Decryption)
+
    1. [Directory Tree](#Directory-Tree)
-   2. [Relief Surface](#Relief-Surface)
-   3. [Flat Surface](#Flat-Surface)
+
+   2. [Flat Surface](#Flat-Surface)
       * [Type a wood](#Type-a)
       * [Type b gravel](#Type-b)
       * [Type c grass](#Type-c)
@@ -38,12 +39,15 @@ If you find this repository useful for your research please use the following bi
       * [Type f street](#Type-f)
       * [Type g concrete](#Type-g)
       * [Type h metal](#Type-h)
+
+
+   3. [Relief Surface](#Relief-Surface)
   
    4. [Motion Blur](#Motion-Blur)
       * [Type b gravel](#MB-Type-b)
       * [Type f street](#MB-Type-f)
 
-5. [Credits](#Credits)
+   5. [Credits](#Credits)
       
 <!--te-->
 <br/>
@@ -141,26 +145,6 @@ Type f - street |  Type a - wood |  Type b - gravel |  Type d - sand
 [:arrow_up:Dataset structure](#Dataset-structure)
 <br/>
 
-
-# Relief Surface
-**..or you can download only specific data**
-<br/>
-<br/>
-*Motion Blur OFF*
-<br/>
-TRAJECTORY TYPE: **FIGURE EIGHT**
-<br/>
-<br/>
-<img src="/img_table/relief_gif.gif" width="250">
-<br/>
-| Surface Type | b - *gravel / stones* | d - *sand* | f - *street  /  bricks* |
-|:---------:|:---------:|:---------:|:---------:|
-| Img |![](/img_table/relief_b.png)<br/> [2_km/h](https://storage-liav.ipsiras.ru/index.php/s/APKMTkqnrPygaRF) | ![](/img_table/relief_d.png)<br/> [2_km/h](https://storage-liav.ipsiras.ru/index.php/s/y9BAbQqt7JHag6B) | ![](/img_table/relief_f.png)<br/> [2_km/h](https://storage-liav.ipsiras.ru/index.php/s/KJ74cQKgfGbn3CA) |
-
-[:arrow_up:Dataset structure](#Dataset-structure)
-<br/>
-<br/>
-___
 
 
 # Flat Surface
@@ -286,6 +270,29 @@ ___
 <br/>
 <br/>
 ___
+
+
+
+# Relief Surface
+**..or you can download only specific data**
+<br/>
+<br/>
+*Motion Blur OFF*
+<br/>
+TRAJECTORY TYPE: **FIGURE EIGHT**
+<br/>
+<br/>
+<img src="/img_table/relief_gif.gif" width="250">
+<br/>
+| Surface Type | b - *gravel / stones* | d - *sand* | f - *street  /  bricks* |
+|:---------:|:---------:|:---------:|:---------:|
+| Img |![](/img_table/relief_b.png)<br/> [2_km/h](https://storage-liav.ipsiras.ru/index.php/s/APKMTkqnrPygaRF) | ![](/img_table/relief_d.png)<br/> [2_km/h](https://storage-liav.ipsiras.ru/index.php/s/y9BAbQqt7JHag6B) | ![](/img_table/relief_f.png)<br/> [2_km/h](https://storage-liav.ipsiras.ru/index.php/s/KJ74cQKgfGbn3CA) |
+
+[:arrow_up:Dataset structure](#Dataset-structure)
+<br/>
+<br/>
+___
+
 
 
 # Motion Blur
