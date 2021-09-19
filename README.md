@@ -51,19 +51,20 @@ If you find this repository useful for your research please use the following bi
 # Trajectory File
 
 <br/>
+*How it looks:*
 
-circle             |  non-intersecting
+CIRCLE TRAJECTORY |  NON-INTERSECTING TRAJECTORY
 :-------------------------:|:-------------------------:
 <img src="/img_table/example_circle_gif.gif" width="400">  |  <img src="/img_table/example_noninter_gif.gif" width="400">
 
 <br/>
-<br/>
 
-circle             |  non-intersecting
-:-------------------------:|:-------------------------:
-![](/img_table/example_circle_gif.gif)  |  ![](/img_table/example_noninter_gif.gif)
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="/img_table/example_f_1.gif" width="300"> | <img src="/img_table/example_a_4.gif" width="400"> | <img src="/img_table/example_b_3.gif" width="400"> | <img src="/img_table/example_d_3.gif" width="400">
 
 <br/>
+<br/>
+
 
 *.csv file decryption*
 <br/>
