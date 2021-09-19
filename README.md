@@ -2,9 +2,11 @@
 
 
 ## Information
-Dataset for paper ->  "Synthetic dataset for navigation tasks of autonomous systems and ground robots".
+Dataset for paper  ->  "Synthetic dataset for navigation tasks of autonomous systems and ground robots".
 
 Conference -> http://itnt-conf.org/index.php
+
+**Idea of Dataset  ->  For visual odometry algorithm testing.**
 
 
 ## Citing
