@@ -51,7 +51,11 @@ If you find this repository useful for your research please use the following bi
 # Trajectory File
 
 <br/>
-<img src="/img_table/example_circle_gif.gif" width="250"> <img src="/img_table/example_noninter_gif.gif" width="250">
+
+circle             |  non-intersecting
+:-------------------------:|:-------------------------:
+<img src="/img_table/example_circle_gif.gif" width="250">  |  <img src="/img_table/example_noninter_gif.gif" width="250">
+
 <br/>
 <br/>
 
