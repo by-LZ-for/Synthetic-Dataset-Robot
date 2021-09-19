@@ -59,8 +59,9 @@ CIRCLE TRAJECTORY |  NON-INTERSECTING TRAJECTORY
 
 <br/>
 
+Type f - street |  Type a - wood |  Type b - gravel |  Type d - sand
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="/img_table/example_f_1.gif" width="300"> | <img src="/img_table/example_a_4.gif" width="400"> | <img src="/img_table/example_b_3.gif" width="400"> | <img src="/img_table/example_d_3.gif" width="400">
+<img src="/img_table/example_f_1.gif" width="300"> | <img src="/img_table/example_a_4.gif" width="300"> | <img src="/img_table/example_b_3.gif" width="300"> | <img src="/img_table/example_d_3.gif" width="300">
 
 <br/>
 <br/>
