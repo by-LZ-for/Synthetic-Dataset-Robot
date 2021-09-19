@@ -54,7 +54,9 @@ If you find this repository useful for your research please use the following bi
 <img src="/img_table/example_circle_gif.gif" width="250"> <img src="/img_table/example_noninter_gif.gif" width="250">
 <br/>
 <br/>
-<img src="/img_table/example_circle_gif.gif" width="250"/> <img src="/img_table/example_noninter_gif.gif" width="250"/> 
+circle             |  non-intersecting
+:-------------------------:|:-------------------------:
+![](/img_table/example_circle_gif.gif)  |  ![](/img_table/example_circle_gif.gif)
 <br/>
 
 *.csv file decryption*
