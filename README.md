@@ -49,6 +49,14 @@ If you find this repository useful for your research please use the following bi
 <br/>
 
 # Trajectory File
+
+<br/>
+<img src="/img_table/example_circle_gif.gif" width="250"> <img src="/img_table/example_noninter_gif.gif" width="250">
+<br/>
+<br/>
+<img src="/img_table/example_a_4.gif" width="250">
+<br/>
+
 *.csv file decryption*
 <br/>
 | time, sec | x axis, cm | y axis, cm | z axis, cm | roll, ° | pitch, ° | yaw, ° | distance to surface<br/>(*experimental for relief*), cm | speed, km/h |
